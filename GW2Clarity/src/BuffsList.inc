@@ -960,6 +960,7 @@ const auto g_Buffs = std::to_array<Buff>({
     //{ 63605, "Aerial Defense" }, // https://wiki.guildwars2.com/images/6/65/Windfall.png
     //{ 66800, "Void Immunity" }, // https://wiki.guildwars2.com/images/6/65/Windfall.png
     //{ 65563, "Void Shell" }, // https://wiki.guildwars2.com/images/6/65/Windfall.png
+    { "SotO Strikes" },
     //// Dagda
     { "Dagda" },
     { 70026, "Shooting Stars", "fixated" }
